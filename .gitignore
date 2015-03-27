@@ -1,0 +1,12 @@
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/runtime
+/publish
+/frameworks/cocos2d-html5
+/frameworks/js-bindings
+/frameworks/runtime-src/proj.ios_mac
+/frameworks/runtime-src/proj.win32
+/frameworks/runtime-src/proj.android/gen
+/frameworks/runtime-src/proj.android/bin
+/frameworks/runtime-src/proj.android/obj
